@@ -1,0 +1,6 @@
+wsdl: http://speller.yandex.net/services/spellservice?WSDL
+url_reg: http://restapi.adequateshop.com/api/authaccount/registration
+url_auth: http://restapi.adequateshop.com/api/authaccount/login
+username: csdcsdc
+password: vtgbkgjnbl;rg
+token: aa0af049-b9be-4392-b89c-1b980babd0af
