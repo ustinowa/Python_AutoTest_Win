@@ -1,4 +1,4 @@
-url_auth: https://test-stand.gb.ru/login
+url_auth: https://test-stand.gb.ru/api/login
 url_create: https://test-stand.gb.ru/api/posts
 username: anastasiyaustin3
 password: 68b2712af0
