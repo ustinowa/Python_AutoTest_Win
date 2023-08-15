@@ -27,10 +27,6 @@ def create_post():
         "description": "my_description",
         "content": "my_content",
     }
-    res = requests.post(url=d["url_create"], headers=headers, data=json.dumps(data))
-    # print(res.content)
-    return res.json()["item"]["description"]
+    res = requests.post(url=d["url_create"], headers=headers, data=data)
+    return res.json()["description"]
 
-
-# print(create_post())
-# print(auth())
