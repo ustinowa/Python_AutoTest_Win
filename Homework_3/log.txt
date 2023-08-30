@@ -1,0 +1,47 @@
+2023-08-30 22:27:04 INFO ====== WebDriver manager ======
+2023-08-30 22:27:06 INFO Get LATEST chromedriver version for google-chrome
+2023-08-30 22:27:06 INFO Get LATEST chromedriver version for google-chrome
+2023-08-30 22:27:06 INFO There is no [win64] chromedriver "116.0.5845.140" for browser google-chrome "116.0.5845.140" in cache
+2023-08-30 22:27:06 INFO Get LATEST chromedriver version for google-chrome
+2023-08-30 22:27:06 INFO WebDriver version 116.0.5845.96 selected
+2023-08-30 22:27:06 INFO Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+2023-08-30 22:27:06 INFO About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+2023-08-30 22:27:06 INFO Driver downloading response is 200
+2023-08-30 22:27:07 INFO Get LATEST chromedriver version for google-chrome
+2023-08-30 22:27:07 INFO Driver has been saved in cache [C:\Users\asust\.wdm\drivers\chromedriver\win64\116.0.5845.140]
+2023-08-30 22:27:09 INFO Test1 run
+2023-08-30 22:27:10 INFO Send test to element //*[@id="login"]/div[1]/label/input
+2023-08-30 22:27:11 INFO Send test to element //*[@id="login"]/div[2]/label/input
+2023-08-30 22:27:11 INFO Click login button
+2023-08-30 22:27:12 INFO We find text 401 in error field //*[@id="app"]/main/div/div/div[2]/h2
+2023-08-30 22:27:12 INFO test2 running
+2023-08-30 22:27:12 INFO Send anastasiyaustin3 to element //*[@id="login"]/div[1]/label/input
+2023-08-30 22:27:12 INFO Send 68b2712af0 to element //*[@id="login"]/div[2]/label/input
+2023-08-30 22:27:12 INFO Click login button
+2023-08-30 22:27:14 INFO test3 running
+2023-08-30 22:27:14 INFO Add post
+2023-08-30 22:27:15 INFO fill post: New title
+2023-08-30 22:27:15 INFO fill post: New description
+2023-08-30 22:27:15 INFO fill post: New content
+2023-08-30 22:27:16 INFO Checking new post...
+2023-08-30 22:27:18 INFO test4 running
+2023-08-30 22:27:19 INFO Add post
+2023-08-30 22:27:20 INFO fill post: New title2
+2023-08-30 22:27:20 INFO fill post: New description
+2023-08-30 22:27:21 INFO Checking new post...
+2023-08-30 22:27:23 INFO test5 running
+2023-08-30 22:27:24 INFO Add post
+2023-08-30 22:27:25 INFO fill post: New title3
+2023-08-30 22:27:25 INFO fill post: New content
+2023-08-30 22:27:26 INFO Checking new post...
+2023-08-30 22:27:28 INFO test6 running
+2023-08-30 22:27:28 INFO Add post
+2023-08-30 22:27:30 INFO fill post: New title4
+2023-08-30 22:27:31 INFO Checking new post...
+2023-08-30 22:27:33 INFO test7 running
+2023-08-30 22:27:33 INFO Click link Contact us
+2023-08-30 22:27:33 INFO Send Ustinova  to element //*[@id="contact"]/div[1]/label/input
+2023-08-30 22:27:34 INFO Send ust@mail.ru  to element //*[@id="contact"]/div[2]/label/input
+2023-08-30 22:27:34 INFO Send my content  to element //*[@id="contact"]/div[3]/label/span/textarea
+2023-08-30 22:27:34 INFO Click send contact button
+2023-08-30 22:27:35 INFO Get alert text
